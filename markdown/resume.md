@@ -34,12 +34,12 @@ to achieve. Other aspects of my job:
 * On-boarding - Helping new employees getting productive as fast as possible
 * Coaching - Work with my colleagues to help them achieve their goals
 * New projects - When focusing on the imediate deadline it is hard to spot
-opportunities for improvement or even if these are obvious there's always
-a lack of priority. I facilitated these kinds of projects, incubating them with
-as few resources as possible and some of them became company wide projects. The
-automation testing initiative is an example of this. On most projects I started
-the prototypes and then gradually involving people while the project started
-getting traction.
+	opportunities for improvement or even if these are obvious there's always
+	a lack of priority. I facilitated these kinds of projects, incubating them with
+	as few resources as possible and some of them became company wide projects. The
+	automation testing initiative is an example of this. On most projects I started
+	the prototypes and then gradually involving people while the project started
+	getting traction.
 
 **[King](https://king.com), Team Lead Software Developer**
 *October 2011 - December 2014 (3 years 3 months) | București, România*
@@ -113,7 +113,7 @@ Programming Languages
 
 :   Fair knowledge of **C#**, **PHP**, **Delphi**
 
-:   Basic knowledge of **x86 assembly**, **Python**, **Objective-C**
+:   Basic knowledge of **x86 assembly**, **Python**, **Objective-C**, **Java Script**
 
 
 Projects  
