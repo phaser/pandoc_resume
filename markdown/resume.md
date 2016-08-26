@@ -3,9 +3,8 @@ Cristian Bidea
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+> <cristian.bidea@gmail.com> • +40 (7)41 461252 • 33 years old\
+> Splaiul Independenței 202H - București, România
 
 ----
 
@@ -99,7 +98,7 @@ Programming Languages
 :   **C++:** As the experience section shows I've used C++ in most of the
 	projects I've worked on.
 
-:   **Java:** I've developed in Java for a number of years developing
+:   **Java:** I've developed in Java for a number of years working on
 	resource constrained applications (EA, J2ME games) but also backend
 	enterprise applications, where the emphasis was on architecture
 	and scalability.
@@ -116,16 +115,19 @@ Programming Languages
 
 :   Basic knowledge of **x86 assembly**, **Python**, **Objective-C**
 
-Personal Projects
-:  **Raytracer:** I love graphics and so I started implementing a path tracer
-	but I until now I have the basing raytracing code that can render texture
+
+Projects  
+:   **Raytracer:** I love graphics and so I started implementing a path tracer
+	but until now I have the basic raytracing code that can render texture
 	mapped meshes and basic 3d objects (planes, spheres) with shadows and 
 	several types of lights and materials. I hope I'll get the time to
 	transition this to a propper path tracer. [GitHub Link](https://github.com/phaser/raytracer)
 
-:  **Quintessence:** This is my C++ game engine. It's very, very basic: it only 
+:   **Quintessence:** This is my C++ game engine. It's basic: it only 
 	renders 2d sprites. But the low-level parts are there, including the
-	support for multiple mobile platforms. [GitHub Link](https://github.com/phaser/quintessence)
+	support for multiple mobile platforms. Also there is the basis for a
+	game editor with QT that can open the game as an external lib inside the
+	QT window. [GitHub Link](https://github.com/phaser/quintessence)
 
 ----
 
