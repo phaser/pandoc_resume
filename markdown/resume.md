@@ -1,5 +1,5 @@
-Johnny Coder
-============
+Cristian Bidea
+==============
 
 ----
 
@@ -96,5 +96,5 @@ Extra Section, Call it Whatever You Want
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <cristian.bidea@gmail.com> • +50 (7)41 461252 • 33 years old\
+> Splaiul Independenși 202H - București, România
