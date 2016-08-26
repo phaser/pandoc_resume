@@ -15,7 +15,6 @@ Education
 2003-2008
 :   **Engineer's degree, Computer Science**; Universitatea "Dunărea de Jos"
     Galați
-    *Thesis title: Sisteme de operare moderne*
 
 1998-2002
 :   **High school, Informatics**; Colegiul Național Barbu Știrbei
@@ -24,7 +23,7 @@ Education
 Experience
 ----------
 
-**King, Technical Director**
+**[King](https://king.com), Technical Director**
 *January 2015 - December 2015 (1 year) | București, România*
 
 Managing 35 programmers and making sure that aspects like communication,
@@ -43,7 +42,7 @@ automation testing initiative is an example of this. On most projects I started
 the prototypes and then gradually involving people while the project started
 getting traction.
 
-**King, Team Lead Software Developer**
+**[King](https://king.com), Team Lead Software Developer**
 *October 2011 - December 2014 (3 years 3 months) | București, România*
 
 Delivering and maintaining games on mobile platforms using custom games engines,
@@ -68,7 +67,7 @@ written in C++.
 * Other - Setting up servers (GitLab, Apache, Wiki, Jenkins), gameplay features,
 	game engine optimizations (rendering, memory consumption, performance).  
 
-**Electronic Arts, Software Engineer**
+**[Electronic Arts](http://www.ea.com), Software Engineer**
 *October 2008 - October 2011, (3 years 1 month) | București, România*
 
 Working on games for feature phones and later smart phones after the launch of
@@ -79,7 +78,7 @@ the iPhone by Apple.
 * FIFA Superstars - C++, iPhone, Android | Programmer
 * Engine - Optimized VM for in-game scripting
 
-**Wind River Systems, Software Engineer**
+**[Wind River Systems](http://www.windriver.com), Software Engineer**
 *January 2007 - September 2008 (1 year 9 months) | Galați, România*
 
 Worked as part of the services division of Wind River Systems.
@@ -93,63 +92,40 @@ Worked as part of the services division of Wind River Systems.
 * BSP - Creating new package implementations for Wind River Linux and fixing
 	existing ones to work on new boards and/or platforms.
 
-**Links**
-
-* [https://king.com/](King)
-* [http://www.ea.com/](Electronic Arts)
-* [http://www.windriver.com/](Wind River Systems)
-
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   **C++:** As the experience section shows I've used C++ in most of the
+	projects I've worked on.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **Java:** I've developed in Java for a number of years developing
+	resource constrained applications (EA, J2ME games) but also backend
+	enterprise applications, where the emphasis was on architecture
+	and scalability.
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+:   **C** Besides Pascal which was my first language, C is my other language
+	in which I learned programming. I've also used C professionally mostly
+	while working for Wind River. Afterwards I wrote C as part of C++
+	applications.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:   **R** I like data and getting insights out of it. So I started a specialization
+	on Coursera in which I learned R and Statistics.
 
-[ref]: https://github.com/githubuser/superlongprojectname
+:   Fair knowledge of **C#**, **PHP**, **Delphi**
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+:   Basic knowledge of **x86 assembly**, **Python**, **Objective-C**
 
-* Human Languages:
+Personal Projects
+:  **Raytracer:** I love graphics and so I started implementing a path tracer
+	but I until now I have the basing raytracing code that can render texture
+	mapped meshes and basic 3d objects (planes, spheres) with shadows and 
+	several types of lights and materials. I hope I'll get the time to
+	transition this to a propper path tracer. [GitHub Link](https://github.com/phaser/raytracer)
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+:  **Quintessence:** This is my C++ game engine. It's very, very basic: it only 
+	renders 2d sprites. But the low-level parts are there, including the
+	support for multiple mobile platforms. [GitHub Link](https://github.com/phaser/quintessence)
 
 ----
 
