@@ -3,8 +3,11 @@ Cristian Bidea
 
 ----
 
-> <cristian.bidea@gmail.com> • +40 (7)41 461252 • 33 years old\
-> Splaiul Independenței 202H - București, România
+> I am a puzzle addict.\ I always work on some using programming as my tool.
+> I've completed many of them (Applications, Games, Websites) in many environments
+> (Windows, Linux, iOS, Android) and I always get that jolt of pride at the end.\
+> Lately I got hooked on riddles. Riddles found in data. Data that comes in many
+> forms and shapes, hiding many secrets. It's always fun to uncover those secrets!
 
 ----
 
