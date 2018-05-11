@@ -25,7 +25,16 @@ Education
 Experience
 ----------
 
-**[Qualitance](https://www.qualitance.com/), Software Engineer**
+**[Amber](https://amberstudio.com), Technical Leader**
+*July 2017 - Present | București, România*
+
+Worked on two games that were prototypes for testing new casual games for mobile phones (iOS, Android). 
+At the same time I've architected a platform for casual games for [Unity 3D](https://unity3d.com) that 
+supported all kinds of casual games (match 3, poppers, linkers, physics based). The platform allows teams
+to prototype these types of games in a shorter time, enabling them to have a working prototype in a week
+being bound by how fast new graphics and gfx can be added to the game.
+
+**[Qualitance](https://www.qualitance.com), Software Engineer**
 *September 2016 - June 2017 (10 months) | București, România*
 
 Implemented virtual reality application for fashion retailers using [Unity 3D](https://unity3d.com/)
