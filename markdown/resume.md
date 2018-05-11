@@ -25,6 +25,17 @@ Education
 Experience
 ----------
 
+**[Qualitance](https://www.qualitance.com/), Software Engineer**
+*September 2016 - June 2017 (10 months) | București, România*
+
+Implemented virtual reality application for fashion retailers using [Unity 3D](https://unity3d.com/)
+on [Oculus Rift](https://www.oculus.com/rift). The application was a multiplayer experience in which
+up to 4 friends could watch together a fashion show and vote on their favorite outfits, having the
+option to actually try those outfits in stores afterward.
+
+As part of the same project I've worked on a touch screen table application and a Kinect mirror that
+lets users try on outfits.
+
 **[King](https://king.com), Technical Director**
 *January 2015 - December 2015 (1 year) | București, România*
 
