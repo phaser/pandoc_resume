@@ -145,5 +145,5 @@ Projects
 
 ----
 
-> <cristian.bidea@gmail.com> • +40 (7)41 461252 • 33 years old\
-> Splaiul Independenței 202H - București, România
+> <cristian.bidea@gmail.com> • +40 (7)41 461252 • 34 years old\
+> Strada Pravăț 4, Bloc Z34, Ap. 51, Etaj 8
