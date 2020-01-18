@@ -5,9 +5,8 @@ Cristian Bidea
 
 > I am a puzzle addict.\ I always work on some using programming as my tool.
 > I've completed many of them (Applications, Games, Websites) in many environments
-> (Windows, Linux, iOS, Android) and I always get that jolt of pride at the end.\
-> Lately I got hooked on riddles. Riddles found in data. Data that comes in many
-> forms and shapes, hiding many secrets. It's always fun to uncover those secrets!
+> (Windows, Linux, iOS, Android) and I always get that jolt of pride and awe when 
+> seeing something working and doing its thing.
 
 ----
 
@@ -25,8 +24,19 @@ Education
 Experience
 ----------
 
+**[Keysight (Ixia)](https://www.ixiacom.com/keysight-technologies), Senior Software Engineer**
+*August 2018 - Present | București, România*
+
+I worked as part of the NVS division (Network Visibility Solutions) on the Appstack product. Appstack
+is a analytics solution that'll offer the user various graphs (traffic, dynamic applictions, threats)
+but also the ability to identify flows and send them to other devices, or to export Netflow flows to
+compatible network collectors.
+
+I mainly worked on the low level packet processing engine, in C/C++. As part of the project I had exposure
+to Docker, K8s, Jenkins, Bash scripts etc. I explored developing fast packet processing solutions on top of [DPDK](https://www.dpdk.org/). 
+
 **[Amber](https://amberstudio.com), Technical Leader**
-*July 2017 - Present | București, România*
+*July 2017 - July 2018 | București, România*
 
 Worked on two games that were prototypes for testing new casual games for mobile phones (iOS, Android). 
 At the same time I've architected a platform for casual games for [Unity 3D](https://unity3d.com) that 
@@ -154,5 +164,5 @@ Projects
 
 ----
 
-> <cristian.bidea@gmail.com> • +40 (7)41 461252 • 34 years old\
+> <cristian.bidea@gmail.com> • +40 (7)41 461252 • 36 years old\
 > Strada Pravăț 4, Bloc Z34, Ap. 51, Etaj 8
