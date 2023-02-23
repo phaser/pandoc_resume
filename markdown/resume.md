@@ -40,7 +40,96 @@ Experience
 **[UiPath](https://www.uipath.com), Senior Software Engineer**
 *March 2020 - Present | București, România*
 
+**[Keysight (Ixia)](https://www.ixiacom.com/keysight-technologies), Senior Software Engineer**
+*August 2018 - February 2020 (1 year 7 months) | București, România*
 
+**[Amber](https://amberstudio.com), Technical Leader**
+*July 2017 - July 2018 (1 year) | București, România*
+
+**[Qualitance](https://www.qualitance.com), Software Engineer**
+*September 2016 - June 2017 (10 months) | București, România*
+
+**[King](https://king.com), Technical Director**
+*January 2015 - December 2015 (1 year) | București, România*
+
+**[King](https://king.com), Team Lead Software Developer**
+*October 2011 - December 2014 (3 years 3 months) | București, România*
+
+**[Electronic Arts](http://www.ea.com), Software Engineer**
+*October 2008 - October 2011, (3 years 1 month) | București, România*
+
+**[Wind River Systems](http://www.windriver.com), Software Engineer**
+*January 2007 - September 2008 (1 year 9 months) | Galați, România*
+
+**Other jobs**
+*1999 - 2006 | Călărași/Galați, România*
+
+* Software developer for The Chamber of Commerce and Industry of Romania
+* System Administrator for Călărași RoEDU NOC at Colegiul Național Barbu Știrbei
+* Software developer at B Smart 1
+* Software developer contractor for Lehnkering Logistics BV
+
+Technical Experience
+--------------------
+
+Programming Languages
+:	**C#:** Good knowledge of C#, developed in C# at UiPath
+
+:   **C++:** As the experience section shows I've used C++ in many of the
+	projects I've worked on.
+
+:   **Java:** I have several years of experience developing in Java, working on 
+	a variety of applications ranging from resource-constrained environments like 
+	J2ME games, to large-scale backend enterprise applications. In my work on these
+	applications, I have focused on creating scalable and well-architected systems.
+	While I haven't kept up with the latest developments in the language, I am eager
+	to learn and continue developing my skills.
+
+:   **C** Besides Pascal which was my first language, C is my other language
+	in which I learned programming. I've also used C professionally mostly
+	while working for Wind River. Afterwards I wrote C as part of C++
+	applications.
+
+:   **R** I like data and getting insights out of it. So I started a specialization
+	on Coursera in which I learned R and Statistics.
+
+:   Fair knowledge of **Python**, **PHP**, **Delphi**, **Java Script**, **Bash**, **Powershell**
+
+:   Basic knowledge of **x86 assembly**, **Objective-C**, **Typescript**, **Swift**
+
+Experience in detail
+--------------------
+
+**[UiPath](https://www.uipath.com), Senior Software Engineer**
+*March 2020 - Present | București, România*
+
+* **Mobile Automation:** I was responsible for enhancing the functionality of the [Mobile Automation Activities](https://docs.uipath.com/test-suite/docs/mobile-device-automation-activities)
+  and addressing issues in the existing ones. These activities serve as plug-ins
+  to UiPath's primary automation authoring tool, [UiPath Studio](https://www.uipath.com/product/studio),
+  allowing users to automate tasks on mobile devices. Additionally, I also
+  contributed to the development of new features for the [Mobile Device Manager](https://docs.uipath.com/test-suite/docs/configuring-mobile-device-manager)
+  application, which enables users to configure multiple mobile devices to execute
+  or author automations, even without access to the physical devices
+
+* **Testing Activities:** Fixed bugs in existing testing activities and developed a new activity called
+  [Bulk Add Test Data Queue Items](https://docs.uipath.com/activities/docs/bulk-add-test-data-queue).
+  This new activity allows the user to obtain output from any other activity with
+  an output and upload that information as JSON to the [Test Data Queues](https://docs.uipath.com/orchestrator/docs/test-data-queues)
+  in [Orchestrator](https://www.uipath.com/product/orchestrator)
+
+* **Orchestrator CLI:** Contributed to the development of Orchestrator Client C# library
+  and CLI by adding new features and fixing bugs. The CLI is similar to Azure
+  CLI or AWS CLI, providing users with a command-line interface to perform 
+  various operations on an Orchestrator instance.
+
+* **Azure DevOps and Jenkins extensions:** These extensions facilitates building,
+  packing, starting tests and publishing UiPath Studio packages to Orchestrator 
+  from Azure or Jenkins build pipelines.
+
+* **Document Understanding:** Designed and developed a microservice aimed
+  at efficiently managing classifiers and extractors in a unified process,
+  eliminating the need for multiple steps. This service streamlined the 
+  process by integrating all the necessary components.
 
 **[Keysight (Ixia)](https://www.ixiacom.com/keysight-technologies), Senior Software Engineer**
 *August 2018 - February 2020 (1 year 7 months) | București, România*
@@ -144,45 +233,7 @@ Worked as part of the services division of Wind River Systems.
 * BSP - Creating new package implementations for Wind River Linux and fixing
 	existing ones to work on new boards and/or platforms.
 
-Technical Experience
---------------------
-
-Programming Languages
-:   **C++:** As the experience section shows I've used C++ in most of the
-	projects I've worked on.
-
-:   **Java:** I've developed in Java for a number of years working on
-	resource constrained applications (EA, J2ME games) but also backend
-	enterprise applications, where the emphasis was on architecture
-	and scalability.
-
-:   **C** Besides Pascal which was my first language, C is my other language
-	in which I learned programming. I've also used C professionally mostly
-	while working for Wind River. Afterwards I wrote C as part of C++
-	applications.
-
-:   **R** I like data and getting insights out of it. So I started a specialization
-	on Coursera in which I learned R and Statistics.
-
-:   Fair knowledge of **C#**, **PHP**, **Delphi**
-
-:   Basic knowledge of **x86 assembly**, **Python**, **Objective-C**, **Java Script**
-
-
-Projects  
-:   **Raytracer:** I love graphics and so I started implementing a path tracer
-	but until now I have the basic raytracing code that can render texture
-	mapped meshes and basic 3d objects (planes, spheres) with shadows and 
-	several types of lights and materials. I hope I'll get the time to
-	transition this to a propper path tracer. [GitHub Link](https://github.com/phaser/raytracer)
-
-:   **Quintessence:** This is my C++ game engine. It's basic: it only 
-	renders 2d sprites. But the low-level parts are there, including the
-	support for multiple mobile platforms. Also there is the basis for a
-	game editor with QT that can open the game as an external lib inside the
-	QT window. [GitHub Link](https://github.com/phaser/quintessence)
-
 ----
 
-> <cristian.bidea@gmail.com> • +40 (7)41 461252 • 36 years old\
-> Strada Pravăț 4, Bloc Z34, Ap. 51, Etaj 8
+> <cristian.bidea@gmail.com> • +40 (7)41 461252 • 39 years old\
+> Strada Rotașului 14, Bloc 3, Sc. 2, Ap. 3257, Etaj 5
