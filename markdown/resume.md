@@ -3,10 +3,23 @@ Cristian Bidea
 
 ----
 
-> I am a puzzle addict.\ I always work on some using programming as my tool.
-> I've completed many of them (Applications, Games, Websites) in many environments
-> (Windows, Linux, iOS, Android) and I always get that jolt of pride and awe when 
-> seeing something working and doing its thing.
+> I've been a tech enthusiast since I was 11 years old, when I fell in love
+> with computers. To this day, the field of computer science continues to
+> fascinate me and I'm always excited to explore the latest developments and 
+> technologies.
+
+> One of my favorite things about coding is using it to solve problems. I enjoy
+> the challenge of finding creative solutions to complex issues, and the satisfaction
+> of seeing my code in action.
+
+> I have a natural curiosity and love taking things apart to understand how they work.
+> Whether it's a computer or a mechanical device, I'm always interested in exploring
+> the details of how it functions and discovering opportunities for improvement.
+
+> Learning new things is a big motivator for me, and I love the thrill of discovering
+> something new and exciting about a technology I previously didn't know. Overall, I'm
+> passionate about technology and have a strong drive to understand the world around me,
+> making me an asset to any team in the field of information technology.
 
 ----
 
@@ -24,80 +37,87 @@ Education
 Experience
 ----------
 
+**[UiPath](https://www.uipath.com), Senior Software Engineer**
+*March 2020 - Present | București, România*
+
+
+
 **[Keysight (Ixia)](https://www.ixiacom.com/keysight-technologies), Senior Software Engineer**
-*August 2018 - Present | București, România*
+*August 2018 - February 2020 (1 year 7 months) | București, România*
 
-I worked as part of the NVS division (Network Visibility Solutions) on the Appstack product. Appstack
-is a analytics solution that'll offer the user various graphs (traffic, dynamic applictions, threats)
-but also the ability to identify flows and send them to other devices, or to export Netflow flows to
-compatible network collectors.
+As a member of the NVS (Network Visibility Solutions) division, I contributed to the
+development of Appstack, an analytics solution that offers users a variety of graphs, 
+including traffic, dynamic applications, and threats. Appstack also enables the
+identification and export of flows to other devices, as well as the export of Netflow
+flows to compatible network collectors.
 
-I mainly worked on the low level packet processing engine, in C/C++. As part of the project I had exposure
-to Docker, K8s, Jenkins, Bash scripts etc. I explored developing fast packet processing solutions on top of [DPDK](https://www.dpdk.org/). 
+My primary focus was on the low-level packet processing engine, which involved
+programming in C/C++. In the course of this project, I gained exposure to various
+technologies such as Docker, K8s, Jenkins, and Bash scripting. I also explored developing
+high-speed packet processing solutions using [DPDK](https://www.dpdk.org/), a powerful 
+packet processing library. 
 
 **[Amber](https://amberstudio.com), Technical Leader**
-*July 2017 - July 2018 | București, România*
+*July 2017 - July 2018 (1 year) | București, România*
 
-Worked on two games that were prototypes for testing new casual games for mobile phones (iOS, Android). 
-At the same time I've architected a platform for casual games for [Unity 3D](https://unity3d.com) that 
-supported all kinds of casual games (match 3, poppers, linkers, physics based). The platform allows teams
-to prototype these types of games in a shorter time, enabling them to have a working prototype in a week
-being bound by how fast new graphics and gfx can be added to the game.
+I was involved in the development of two mobile game prototypes designed to test
+new casual games for both iOS and Android devices. In addition, I architected
+a platform for casual games using [Unity 3D](https://unity3d.com) that supported
+various game types such as match 3, poppers, linkers, and physics-based games.
+This platform enabled teams to prototype these types of games more quickly, with
+a working prototype achievable in as little as one week, subject to how quickly
+new graphics and other assets could be integrated into the game.
 
 **[Qualitance](https://www.qualitance.com), Software Engineer**
 *September 2016 - June 2017 (10 months) | București, România*
 
-Implemented virtual reality application for fashion retailers using [Unity 3D](https://unity3d.com/)
-on [Oculus Rift](https://www.oculus.com/rift). The application was a multiplayer experience in which
-up to 4 friends could watch together a fashion show and vote on their favorite outfits, having the
-option to actually try those outfits in stores afterward.
+I developed a virtual reality application for fashion retailers using
+[Unity 3D](https://unity3d.com/) on the [Oculus Rift](https://www.oculus.com/rift)
+platform. This multiplayer experience allowed up to four friends to watch a fashion
+show together and vote on their favorite outfits. Users could then try on those
+outfits in stores after the show.
 
-As part of the same project I've worked on a touch screen table application and a Kinect mirror that
-lets users try on outfits.
+In addition to the virtual reality component, I also worked on a touch screen
+table application and a Kinect mirror that enabled users to try on outfits in
+a novel and engaging way.
 
 **[King](https://king.com), Technical Director**
 *January 2015 - December 2015 (1 year) | București, România*
 
-Managing 35 programmers and making sure that aspects like communication,
-knowledge sharing and personal growth are not overshadowed by the stringent
-needs of the projects. Finding the right balance was the hardest thing
-to achieve. Other aspects of my job:
+I led a team of 35 programmers, ensuring that communication, knowledge sharing,
+and personal growth were prioritized alongside the demanding requirements of
+our projects. Striking the right balance was a challenging but essential part
+of my role.
 
-* Recruiting - Interviews, defining the candidate profile
-* On-boarding - Helping new employees getting productive as fast as possible
-* Coaching - Work with my colleagues to help them achieve their goals
-* New projects - When focusing on the imediate deadline it is hard to spot
-	opportunities for improvement or even if these are obvious there's always
-	a lack of priority. I facilitated these kinds of projects, incubating them with
-	as few resources as possible and some of them became company wide projects. The
-	automation testing initiative is an example of this. On most projects I started
-	the prototypes and then gradually involving people while the project started
-	getting traction.
+In addition to managing the team, I also played a key role in recruitment, conducting
+interviews and defining candidate profiles. I facilitated the onboarding process
+to help new employees become productive as quickly as possible, and I provided
+coaching to colleagues to help them achieve their goals.
+
+I also took on new projects, recognizing that it can be difficult to identify
+opportunities for improvement when focused solely on immediate deadlines. By
+incubating new projects with minimal resources, some of these initiatives became
+company-wide projects. For example, I spearheaded an automation testing initiative,
+starting with prototypes and gradually involving more team members as the project
+gained momentum.
 
 **[King](https://king.com), Team Lead Software Developer**
 *October 2011 - December 2014 (3 years 3 months) | București, România*
 
-Delivering and maintaining games on mobile platforms using custom games engines,
-written in C++.
+Delivered and maintained games on mobile platforms using custom game engines
+written in C++. One of the key projects I initiated was KRAL, a meta build system
+that leveraged CMake to streamline the development and delivery of games 
+to multiple platforms simultaneously. KRAL added support for packages, multiple
+targets in the same repository, and other features that proved invaluable to our
+development teams. At one point, KRAL powered most of the projects within the
+company, and it was open-sourced on GitHub. While KRAL is no longer in use, it
+remains a testament to the innovation and problem-solving abilities of our team.
 
-* Writing KRAL - KRAL is a meta build system in the sense that it already uses
-	CMake to do the heavy lifting and it adds support for packages, multiple
-	targets	in the same repository and other things to facilitate the developing
-	and delivery of a game to multiple platforms at the same time. This is a
-	project I started (on Bubble Witch Saga) and now is still used for most of the
-	projects inside the company. The project is open source and you can find it on
-	[https://github.com/phaser/KRAL](GitHub).
-
-* Adobe Flash implementation - I did a basic implementation of Adobe Flash SWF 
-	format. The implementation could open swf files directly and render images,
-	animations and movie clips (no AS support, although we had some callback
-	mechanisms to interact with the C++ code).
-
-* Custom Selenium Client - Writing a custom implementation of JSON Wire Protocol
-	to enable automation testing of the games using Selenium.
-
-* Other - Setting up servers (GitLab, Apache, Wiki, Jenkins), gameplay features,
-	game engine optimizations (rendering, memory consumption, performance).  
+Other notable projects include implementing a minimal VM for Adobe Flash SWF format,
+customizing a Selenium client for automation testing of games, and optimizing game engine
+performance through rendering, memory consumption, and other gameplay features. Additionally,
+I handled various operational tasks such as setting up servers (GitLab, Apache, Wiki, Jenkins)
+to ensure seamless project management and delivery.
 
 **[Electronic Arts](http://www.ea.com), Software Engineer**
 *October 2008 - October 2011, (3 years 1 month) | București, România*
