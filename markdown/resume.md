@@ -7,15 +7,15 @@ Cristian Bidea
 > with computers. To this day, the field of computer science continues to
 > fascinate me and I'm always excited to explore the latest developments and 
 > technologies.
-
+>
 > One of my favorite things about coding is using it to solve problems. I enjoy
 > the challenge of finding creative solutions to complex issues, and the satisfaction
 > of seeing my code in action.
-
+>
 > I have a natural curiosity and love taking things apart to understand how they work.
 > Whether it's a computer or a mechanical device, I'm always interested in exploring
 > the details of how it functions and discovering opportunities for improvement.
-
+>
 > Learning new things is a big motivator for me, and I love the thrill of discovering
 > something new and exciting about a technology I previously didn't know. Overall, I'm
 > passionate about technology and have a strong drive to understand the world around me,
@@ -96,6 +96,7 @@ Programming Languages
 :   Fair knowledge of **Python**, **PHP**, **Delphi**, **Java Script**, **Bash**, **Powershell**
 
 :   Basic knowledge of **x86 assembly**, **Objective-C**, **Typescript**, **Swift**
+
 
 Experience in detail
 --------------------
@@ -211,27 +212,23 @@ to ensure seamless project management and delivery.
 **[Electronic Arts](http://www.ea.com), Software Engineer**
 *October 2008 - October 2011, (3 years 1 month) | București, România*
 
-Working on games for feature phones and later smart phones after the launch of
-the iPhone by Apple.
+While at EA, I have worked on developing games for feature phones as well as
+smartphones, following the launch of the iPhone by Apple. My notable projects
+include:
 
-* Star Trek - Java, J2ME | Programmer
-* Medal of Honor - Java, J2ME | C++, BREW | Lead Programmer
-* FIFA Superstars - C++, iPhone, Android | Programmer
-* Engine - Optimized VM for in-game scripting
+  *  **Star Trek** - developed using Java and J2ME as the programming languages, where I worked as a Programmer
+  *  **Medal of Honor** - developed using Java, J2ME, and C++, BREW, where I held the role of Lead Programmer
+  *  **FIFA Superstars** - developed using C++, and launched on iPhone and Android platforms, where I worked as a Programmer
+  *  **Engine work** - I also developed an optimized VM for in-game scripting to enhance the overall game experience.
 
 **[Wind River Systems](http://www.windriver.com), Software Engineer**
 *January 2007 - September 2008 (1 year 9 months) | Galați, România*
 
-Worked as part of the services division of Wind River Systems.
+During my tenure at Wind River Systems' services division, I worked on several projects such as:
 
-* In seat infotainment system - An application that was running on the screens
-	embedded in the seats of airplanes that would deliver movies, music,
-	games and various informations to the passengers. Project was mostly
-	written in C on Linux using GTK+.
-* Contacts section - Implementing the presence and contact management for a
-	custom conferencing system.
-* BSP - Creating new package implementations for Wind River Linux and fixing
-	existing ones to work on new boards and/or platforms.
+  *  **In-Seat Infotainment System:** A Linux-based application that delivered various entertainment options to airplane passengers through seat-embedded screens. My role in the project involved primarily working with C and GTK+.
+  *  **Contacts Section:** I implemented presence and contact management functionalities for a custom conferencing system.
+  *  **BSP:** I created new package implementations for Wind River Linux and also fixed existing ones to ensure compatibility with new boards and platforms.
 
 ----
 
